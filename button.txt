@@ -1,3 +1,4 @@
 color red
 color black
 button
+button 2
